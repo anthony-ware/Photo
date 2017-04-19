@@ -1,0 +1,30 @@
+h1 {
+  margin-left: 10px; }
+
+div {
+  display: inline-block;
+  right: 0;
+  left: 0;
+  margin: 0 auto; }
+
+.filter-select {
+  margin-top: 50px;
+  margin-bottom: 50px; }
+  .filter-select li {
+    list-style: none;
+    display: block; }
+  .filter-select button:hover {
+    color: red; }
+
+#photos {
+  position: absolute;
+  right: 0;
+  left: 0; }
+  #photos li {
+    display: inline-block;
+    list-style: none; }
+  #photos img {
+    height: 240px;
+    width: 240px; }
+
+/*# sourceMappingURL=style.css.map */

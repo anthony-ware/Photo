@@ -1,0 +1,42 @@
+h1{
+	margin-left:10px;
+}
+
+div{
+	display:inline-block;
+	right:0;
+	left:0;
+	margin:0 auto;
+}
+
+.filter-select{
+	margin-top:50px;
+	margin-bottom:50px;
+	li{
+		
+		list-style: none;
+		display:block;
+	}
+
+	button:hover{
+		color:red;
+	}
+}
+
+#photos{
+	position: absolute;
+	right:0;
+	left:0;
+	li{
+		display: inline-block;
+		list-style:none;
+
+	}
+
+	img{
+		height:240px;
+		width:240px;
+	}
+}
+
+
